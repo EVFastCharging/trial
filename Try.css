@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: lightgreen;
+    text-align: center;
+}
+
+/* Styling the header */
+.header {
+    background-color: lightgreen;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+/* Styling the heading */
+.header h1 {
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 0;
+}
